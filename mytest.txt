@@ -7,8 +7,6 @@ CCTV4K超高清,http://edge-cache04.live3.omd.sc96655.com/live/ys4Kcq_2000.m3u8&
 欢笑剧场,http://edge-cache04.live3.omd.sc96655.com/live/hxjc-4k_8000.m3u8&socks5=61.155.141.42:59999
 
 
-
-
 凤凰中文,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/test1_4000.m3u8
 凤凰资讯,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/test2_4000.m3u8
 CCTV1,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-1H265_4000.m3u8
