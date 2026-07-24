@@ -35,6 +35,27 @@ CGTN法语,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cac
 CGTN俄语,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/ey_2000.m3u8
 
 卫视,#genre#,DE=3
+CCTV1综合,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-1H265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV2财经,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-2H265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV3综艺,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-3H265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV4中文国际,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-4H265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV5体育,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-5H265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV5+体育赛事,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-5plusH265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV6电影,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-6H265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV7国防军事,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-7H265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV8电视剧,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-8H265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV9纪录,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-9H265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV10科教,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-10H265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV11戏曲,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-11-H265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV12社会与法,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-12H265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV13新闻,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-xw_4000.m3u8&socks5=61.155.141.42:59999
+CCTV14少儿,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-14H265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV15音乐,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-15-yyH265_4000.m3u8&socks5=61.155.141.42:59999
+CCTV16,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-16_4000.m3u8&socks5=61.155.141.42:59999
+CCTV16奥林匹克4k,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-16-4K_8000.m3u8&socks5=61.155.141.42:59999
+CCTV17农业农村,http://edge-cache04.live3.omd.sc96655.com/live/CCTV-17_4000.m3u8&socks5=61.155.141.42:59999
+
+
 
 北京卫视,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/bjwsH265_4000.m3u8
 东方卫视,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/dfwsH265_4000.m3u8
