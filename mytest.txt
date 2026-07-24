@@ -1,5 +1,5 @@
 🌏蜀小果,#group#
-央视卫视,#genre#,DE=3
+央视,#genre#,DE=3
 凤凰中文,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/test1_4000.m3u8
 凤凰资讯,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/test2_4000.m3u8
 CCTV1,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/CCTV-1H265_4000.m3u8
@@ -26,6 +26,9 @@ CGTN,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.l
 CGTN西语,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/xbyy_2000.m3u8
 CGTN法语,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/fy_2000.m3u8
 CGTN俄语,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/ey_2000.m3u8
+
+卫视,#genre#,DE=3
+
 北京卫视,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/bjwsH265_4000.m3u8
 东方卫视,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/dfwsH265_4000.m3u8
 天津卫视,http://PLTV/ku9/py/socks5.py?ip=122.228.77.49:59999&u=http://edge-cache02.live3.omd.sc96655.com/live/tjwsH265_4000.m3u8
