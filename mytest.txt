@@ -3,7 +3,7 @@
 
 
 
-🌏银河sc,#group#
+🌏银河,#group#
 
 央视频道,#genre#
 CCTV-1,http://123.234.2.58/sccucc-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8
@@ -106,7 +106,7 @@ CETV早期教育,http://123.234.2.58/sccucc-livod.tx-cdn.gitv.tv/gitv_live/G_CET
 
 
 
-🌏银河ct,#group#
+🌏银河,#group#
 
 央视频道,#genre#
 
@@ -205,7 +205,7 @@ CETV4,http://123.234.2.58/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CETV-4/G_CETV-4.m
 天元围棋,http://123.234.2.58/ctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_TIANYUANWQ/G_TIANYUANWQ.
 
 
-🌏银河sn,#group#
+🌏银河,#group#
 
 央视频道,#genre#
 CCTV-1,http://123.234.2.58/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8
@@ -306,7 +306,7 @@ CETV早期教育,http://123.234.2.58/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CETV
 天元围棋,http://123.234.2.58/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_TIANYUANWQ/G_TIANYUANWQ.
 
 
-🌏银河cu,#group#
+🌏银河,#group#
 
 央视频道,#genre#
 CCTV-1,http://123.234.2.58/cucc-livod-new.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8
